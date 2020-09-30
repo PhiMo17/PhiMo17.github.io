@@ -6,7 +6,7 @@
 }
 #nav{
     height: 100%;
-    width: 4%;
+    width: 10%;
     position: fixed;
     z-index: 1;
     top: 0;
@@ -29,7 +29,7 @@
 #header{
     position: fixed;
     background-color: white;
-    height: 10%;
+    height: 4%;
     width: 100%;
     padding: 1%;
     padding-left: 0%;
