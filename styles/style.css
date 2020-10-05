@@ -105,6 +105,10 @@ main{
 .art4 img{
     float: right;
 }
+
+.mockup{
+    float: left;
+}
 footer{
     margin-top: 10%;
     text-align: center;
